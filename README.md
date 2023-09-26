@@ -11,4 +11,4 @@ I’m currently learning: Docker.
 ![Sheree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShereeMorphett&theme=omni&show_icons=true)
 
 
-#### 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sheree-morphett](https://www.linkedin.com/in/sheree-morphett/)
+#### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sheree-morphett)
