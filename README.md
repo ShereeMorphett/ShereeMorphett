@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 #### 📫 How to reach me:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [sheree-morphett](www.linkedin.com/in/sheree-morphett)
 
