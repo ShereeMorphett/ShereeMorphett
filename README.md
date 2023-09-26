@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 #### 📫 How to reach me:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [sheree-morphett](www.linkedin.com/in/sheree-morphett)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [sheree-morphett](www.linkedin.com/in/sheree-morphett)
 
 
 ![Sheree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShereeMorphett&theme=omni&show_icons=true)
