@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [sheree-morphett](www.linkedin.com/in/sheree-morphett)
 
 
-[![Sheree's GitHub stats](https://github-readme-stats.vercel.app/api?ShereeMorphett=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sheree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShereeMorphett)](https://github.com/anuraghazra/github-readme-stats)
