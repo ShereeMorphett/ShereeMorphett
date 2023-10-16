@@ -20,6 +20,22 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel
 
 ### Tools
 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+
+   <div style="flex: 1; padding: 10px;">
+      <p align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=ShereeMorphett&theme=transparent&show_icons=true&hide_rank=true&hide_title=true" alt="Sheree's GitHub Stats">
+      </p>
+   </div>
+
+   <div style="flex: 1; padding: 10px;">
+      <p align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShereeMorphett&theme=transparent" alt="Top Languages">
+      </p>
+   </div>
+
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,cmake,docker)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
 
 ### Stats
