@@ -1,7 +1,7 @@
 ### About Me 🌞
 
 
-I'm an aspiring programmer with a strong foundation in C and C++, on a journey to master the intricate arts of coding.
+I'm an aspiring programmer with a strong foundation in C and C++.
 My coding adventures have led me to study at [Hive Helsinki]([https://www.hiveschool.io/](https://www.hive.fi/en/)), where I've honed my teamwork and peer-to-peer learning skills, becoming an agile and adaptable coder.
 
 Beyond the realm of programming, I hold a Bachelor's degree in Educational Research and have an impressive 4 years of teaching experience, which has granted me the patience and adaptability needed for the ever-evolving programming cosmos.
