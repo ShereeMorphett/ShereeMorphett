@@ -7,8 +7,8 @@ My coding adventures have led me to study at [Hive Helsinki]([https://www.hivesc
 Beyond the realm of programming, I hold a Bachelor's degree in Educational Research and have an impressive 4 years of teaching experience, which has granted me the patience and adaptability needed for the ever-evolving programming cosmos.
 I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
 
-## The coolest projects (at the time of writing)
-[MiniRT]([https://github.com/username/repo/issues/1](https://github.com/ShereeMorphett/MiniRT))
+## My coolest projects (at the time of writing)
+[MiniRT](https://github.com/ShereeMorphett/MiniRT) : MiniRT is a raytracing program written in C that generates computer-generated images representing scenes with simple geometric objects and their own lighting systems. 
 
 
 ### Languages
