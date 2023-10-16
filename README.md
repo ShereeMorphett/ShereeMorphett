@@ -1,4 +1,4 @@
-### About Me
+### About Me 🌞
 
 
 I'm an aspiring programmer with a strong foundation in C and C++, on a journey to master the intricate arts of coding.
@@ -8,9 +8,10 @@ Beyond the realm of programming, I hold a Bachelor's degree in Educational Resea
 I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
 
 ### My coolest projects (at the time of writing)
-[MiniRT](https://github.com/ShereeMorphett/MiniRT) : MiniRT is a raytracing program written in C that generates computer-generated images representing scenes with simple geometric objects and their own lighting systems. 
-[MiniShell](https://github.com/jboucher154/Eggshell) : The Minishell project is a part of the 42-cursus group project, where we successfully built a simple shell program in C. 
-[CPP modules](https://github.com/ShereeMorphett/libft_CPP) : The C++ modules were designed to give Hive students a basic understanding of C++ features, I also used this oppertunity to learn how build systems(meson) and testing frameworks(catch2) work. 
+
+🌟 [MiniRT](https://github.com/ShereeMorphett/MiniRT): MiniRT is a raytracing program written in C that generates computer-generated images representing scenes with simple geometric objects and their own lighting systems. <br>
+🐚 [MiniShell](https://github.com/jboucher154/Eggshell): The Minishell project is a part of the 42-cursus group project, where we successfully built a simple shell program in C. <br>
+🚀 [CPP modules](https://github.com/ShereeMorphett/libft_CPP): The C++ modules were designed to give Hive students a basic understanding of C++ features, and I also used this opportunity to learn how build systems (meson) and testing frameworks (catch2) work.
 
 
 ### Languages
