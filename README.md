@@ -16,7 +16,7 @@ I am currently expanding my Docker skills as well as focusing on testing framewo
 
 ![Sheree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShereeMorphett&theme=transparent&show_icons=true&hide_rank=true&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShereeMorphett)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShereeMorphett&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me:
 
