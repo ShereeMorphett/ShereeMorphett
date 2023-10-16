@@ -1,4 +1,4 @@
-### About Me 🌞
+# About Me 🌞
 
 
 I'm an aspiring programmer with a strong foundation in C and C++.
