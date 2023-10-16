@@ -14,10 +14,10 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel
 🚀 [CPP modules](https://github.com/ShereeMorphett/libft_CPP): The C++ modules were designed to give Hive students a basic understanding of C++ features, and I also used this opportunity to learn how build systems (meson) and testing frameworks (catch2) work.
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
+
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
-<hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,cmake,docker)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
