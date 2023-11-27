@@ -4,7 +4,7 @@
 I'm an aspiring programmer with a strong foundation in C and C++.
 My coding adventures have led me to study at [Hive Helsinki]([https://www.hiveschool.io/](https://www.hive.fi/en/)), where I've honed my teamwork and peer-to-peer learning skills, becoming an agile and adaptable coder.
 
-I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
+I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
 
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
