@@ -16,6 +16,8 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffinated squirrel
 🐚 [MiniShell](https://github.com/jboucher154/Eggshell): The Minishell project is a part of the 42-cursus group project, where we successfully built a simple shell program in C. <br>
 🚀 [CPP modules](https://github.com/ShereeMorphett/libft_CPP): The C++ modules were designed to give Hive students a basic understanding of C++ features, and I also used this opportunity to learn how build systems (meson) and testing frameworks (catch2) work.
 
+🚀 [WebServer]([https://github.com/ShereeMorphett/libft_CPP](https://github.com/ShereeMorphett/WebServer): Building a C++ Webserver from scratch (This project is still in progress).
+
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
