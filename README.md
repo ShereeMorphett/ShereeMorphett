@@ -1,7 +1,7 @@
 # About Me 🌞
 
 
-I'm an aspiring programmer with a strong foundation in C and C++.
+I'm an aspiring programmer with a strong foundation in C, C++ and Python.
 My coding adventures have led me to study at [Hive Helsinki]([https://www.hiveschool.io/](https://www.hive.fi/en/)), where I've honed my teamwork and peer-to-peer learning skills, becoming an agile and adaptable coder.
 
 I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
