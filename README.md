@@ -27,7 +27,7 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirre
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,latex)](https://skillicons.dev)
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,cmake,docker)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,cmake,docker,godot)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
 
 ### Stats
 
