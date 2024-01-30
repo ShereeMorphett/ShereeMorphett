@@ -24,10 +24,10 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirre
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,latex)](https://skillicons.dev)
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,cmake,docker)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,cmake,docker,pytest,catch2)](https://skillicons.dev)<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
 
 ### Stats
 
