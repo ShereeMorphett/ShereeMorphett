@@ -17,6 +17,7 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirre
 🐚 [MiniShell](https://github.com/jboucher154/Eggshell): The Minishell project is a part of the 42-cursus group project, where we successfully built a simple shell program in C. <br>
 🌟 [RT](https://github.com/marzer/rt): Regularly contributing to a C++ Raytracer that has multiple libraries, testing frameworks and using meson build system. Contributing to this project has given me the chance to work with experienced programmers and learn about best practices in modern C++ as well as having regular code reviews <br>
 🚀 [CPP modules](https://github.com/ShereeMorphett/libft_CPP): The C++ modules were designed to give Hive students a basic understanding of C++ features, and I also used this opportunity to learn how build systems (meson) and testing frameworks (catch2) work.<br>
+🚀 [ft_transcendence](https://github.com/tikanoja/ft_transcendence): Creating a web platform for multiplayer games utilizing a single-page architecture. Users can chat, view and manage profiles and participate in two different games via real-time matches and tournaments.<br>
 
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
