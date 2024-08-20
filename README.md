@@ -16,7 +16,7 @@ I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirre
 🚀 [WebServer](https://github.com/ShereeMorphett/WebServer): Building a C++ Webserver from scratch, implementing python CGIs.<br>
 🌟 [MiniRT](https://github.com/ShereeMorphett/MiniRT): MiniRT is a raytracing program written in C that generates computer-generated images representing scenes with simple geometric objects and their lighting systems. <br>
 🌟 [RT](https://github.com/marzer/rt): Regularly contributing to a C++ Raytracer that has multiple libraries, testing frameworks and using meson build system. Contributing to this project has given me the chance to work with experienced programmers and learn about best practices in modern C++ as well as having regular code reviews <br>
-🚀 [CPP modules](https://github.com/ShereeMorphett/libft_CPP): The C++ modules were designed to give Hive students a basic understanding of C++ features, and I also used this opportunity to learn how build systems (meson) and testing frameworks (catch2) work.<br>
+🚀 [Matrix](https://github.com/ShereeMorphett/Matrix): A comprehensive matrix/vector mathematics library implemented in C++.<br>
 🐚 [MiniShell](https://github.com/jboucher154/Eggshell): The Minishell project is a part of the 42-cursus group project, where we successfully built a simple shell program in C. <br>
 
 
