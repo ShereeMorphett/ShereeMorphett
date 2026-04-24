@@ -1,10 +1,7 @@
 # About Me 🌞
 
 
-I'm a programmer with a strong foundation in C, C++ and Python.
-My coding adventures have led me to study at [Hive Helsinki]([https://www.hiveschool.io/](https://www.hive.fi/en/)), where I've honed my teamwork and peer-to-peer learning skills, and tools/testing obsessed.
-
-I'm a curiosity-driven coder with the enthusiasm of a highly caffeinated squirrel, always on the hunt for new projects and technology to explore in the vast world of programming.
+I'm a programmer with a strong foundation in C++, QML and Python.
 
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
